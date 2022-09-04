@@ -1632,6 +1632,8 @@ img {
   overflow: hidden;
   width: 800px;
   max-width: 100%;
+    min-height: 200px;
+
 }
 
 
